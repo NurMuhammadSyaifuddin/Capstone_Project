@@ -41,14 +41,6 @@ dependencies {
     //testing
     testImplementation "junit:junit:$junitVersion"
     androidTestImplementation "junit:junit:$junitVersion"
-    androidTestImplementation "androidx.test.espresso:espresso-core:$espressoVersion"
-    androidTestImplementation "androidx.test.espresso:espresso-contrib:$espressoVersion"
-    androidTestImplementation "androidx.test:rules:1.3.0"
-    testImplementation "org.mockito:mockito-core:$mockitoVersion"
-    testImplementation "org.mockito:mockito-inline:$mockitoVersion"
-    testImplementation "androidx.arch.core:core-testing:2.1.0"
-    testImplementation "com.nhaarman.mockitokotlin2:mockito-kotlin:2.2.0"
-    implementation "androidx.test.espresso:espresso-idling-resource:$idleResourceVersion"
 
     implementation "androidx.multidex:multidex:2.0.1"
     implementation "com.facebook.shimmer:shimmer:0.5.0"
