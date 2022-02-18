@@ -22,7 +22,6 @@
     <string name="register_here">Register here</string>
     <string name="google_sign_in_failed">Google Sign in Failed</string>
     <string name="server_client_id">910696638579-svhrpo1i8qi9lpspgj493q5g1ftu9g85.apps.googleusercontent.com</string>
-    <string name="server_client_secret">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</string>
     <string name="email_not_verify">Email not verified, please check your email</string>
     <string name="search_movie">Search Movie..</string>
     <string name="search_tvshow">Search Tv Show..</string>

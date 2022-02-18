@@ -22,7 +22,6 @@
     <string name="register_here">Daftar disini</string>
     <string name="google_sign_in_failed">Gagal masuk melalaui Google</string>
     <string name="server_client_id">910696638579-svhrpo1i8qi9lpspgj493q5g1ftu9g85.apps.googleusercontent.com</string>
-    <string name="server_client_secret">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</string>
     <string name="email_not_verify">Email tidak terverifikasi, silakan cek email Anda</string>
     <string name="search_movie">Cari Movie..</string>
     <string name="search_tvshow">Cari Tv Show..</string>
