@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_navigation"
+    app:startDestination="@id/navigation_movie">
+
+    <fragment
+        android:id="@+id/navigation_movie"
+        android:name="com.project.capstoneproject.ui.movie.MovieFragment"
+        android:label="@string/movie"
+        tools:layout="@layout/fragment_movie" />
+
+    <fragment
+        android:id="@+id/navigation_tv_show"
+        android:name="com.project.capstoneproject.ui.tvshow.TvShowFragment"
+        android:label="@string/tv_show"
+        tools:layout="@layout/fragment_tv_show" />
+
+    <fragment
+        android:id="@+id/navigation_favorite"
+        android:name="com.project.favorite.FavoriteFragment"
+        app:moduleName="Capstone_Project.favorite"
+        android:label="@string/favorite"
+        tools:layout="@layout/fragment_favorite" />
+
+
+    <fragment
+        android:id="@+id/navigation_favorite_movie"
+        android:name="com.project.favorite.movie.FavoriteMovieFragment"
+        app:moduleName="Capstone_Project.favorite"
+        android:label="fragment_favorite_movie"
+        tools:layout="@layout/fragment_favorite_movie" />
+
+    <fragment
+        android:id="@+id/navigation_favorite_tv_show"
+        android:name="com.project.favorite.tvshow.FavoriteTvShowFragment"
+        app:moduleName="Capstone_Project.favorite"
+        android:label="fragment_favorite_tv_show"
+        tools:layout="@layout/fragment_favorite_tv_show" />
+    <fragment
+        android:id="@+id/navigation_user_profile"
+        android:name="com.project.userprofile.ui.user.UserFragment"
+        app:moduleName="Capstone_Project.userprofile"
+        android:label="@string/profile"
+        tools:layout="@layout/fragment_user" />
+</navigation>

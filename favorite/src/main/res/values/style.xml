@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    
+    <style name="TitleTabLayout" parent="android:TextAppearance">
+        <item name="fontFamily">@font/poppins_semibold</item>
+        <item name="android:textSize">@dimen/sp_18</item>
+        <item name="background">@color/white</item>
+    </style>
+
+</resources>

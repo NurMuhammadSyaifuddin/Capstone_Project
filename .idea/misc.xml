@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/PROJECT/STUDI INDEPENDEN/Menjadi Android Developer Expert/CapstoneProject/app/src/main/res/drawable-v24/ic_google_icon.xml" value="0.18333333333333332" />
+        <entry key="..\:/PROJECT/STUDI INDEPENDEN/Menjadi Android Developer Expert/CapstoneProject/app/src/main/res/drawable-v24/ic_movie.xml" value="0.22037037037037038" />
+        <entry key="..\:/PROJECT/STUDI INDEPENDEN/Menjadi Android Developer Expert/CapstoneProject/app/src/main/res/drawable-v24/ic_setting.xml" value="0.2212962962962963" />
+        <entry key="..\:/PROJECT/STUDI INDEPENDEN/Menjadi Android Developer Expert/CapstoneProject/app/src/main/res/drawable/bg_btn_black.xml" value="0.18333333333333332" />
+        <entry key="..\:/PROJECT/STUDI INDEPENDEN/Menjadi Android Developer Expert/CapstoneProject/app/src/main/res/drawable/bg_dialog.xml" value="0.22037037037037038" />
+        <entry key="..\:/PROJECT/STUDI INDEPENDEN/Menjadi Android Developer Expert/CapstoneProject/app/src/main/res/drawable/bg_dialog_content.xml" value="0.21666666666666667" />
+        <entry key="..\:/PROJECT/STUDI INDEPENDEN/Menjadi Android Developer Expert/CapstoneProject/app/src/main/res/drawable/bg_search_view.xml" value="0.22314814814814815" />
+        <entry key="..\:/PROJECT/STUDI INDEPENDEN/Menjadi Android Developer Expert/CapstoneProject/app/src/main/res/drawable/bottom_nav_color_state.xml" value="0.22037037037037038" />
+        <entry key="..\:/PROJECT/STUDI INDEPENDEN/Menjadi Android Developer Expert/CapstoneProject/app/src/main/res/drawable/circle.xml" value="0.22314814814814815" />
+        <entry key="..\:/PROJECT/STUDI INDEPENDEN/Menjadi Android Developer Expert/CapstoneProject/app/src/main/res/drawable/gradient_black.xml" value="0.21666666666666667" />
+        <entry key="..\:/PROJECT/STUDI INDEPENDEN/Menjadi Android Developer Expert/CapstoneProject/app/src/main/res/drawable/ic_baseline_arrow_back_sign_up.xml" value="0.1787037037037037" />
+        <entry key="..\:/PROJECT/STUDI INDEPENDEN/Menjadi Android Developer Expert/CapstoneProject/app/src/main/res/drawable/ic_favorite_false.xml" value="0.23692307692307693" />
+        <entry key="..\:/PROJECT/STUDI INDEPENDEN/Menjadi Android Developer Expert/CapstoneProject/app/src/main/res/drawable/ic_twotone_settings_24.xml" value="0.22314814814814815" />
+        <entry key="..\:/PROJECT/STUDI INDEPENDEN/Menjadi Android Developer Expert/CapstoneProject/app/src/main/res/drawable/rounded_text.xml" value="0.22" />
+        <entry key="..\:/PROJECT/STUDI INDEPENDEN/Menjadi Android Developer Expert/CapstoneProject/app/src/main/res/font/font.xml" value="0.18796296296296297" />
+        <entry key="..\:/PROJECT/STUDI INDEPENDEN/Menjadi Android Developer Expert/CapstoneProject/app/src/main/res/font/poppins.xml" value="0.18796296296296297" />
+        <entry key="..\:/PROJECT/STUDI INDEPENDEN/Menjadi Android Developer Expert/CapstoneProject/app/src/main/res/layout/activity_detail.xml" value="0.252046783625731" />
+        <entry key="..\:/PROJECT/STUDI INDEPENDEN/Menjadi Android Developer Expert/CapstoneProject/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/PROJECT/STUDI INDEPENDEN/Menjadi Android Developer Expert/CapstoneProject/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/PROJECT/STUDI INDEPENDEN/Menjadi Android Developer Expert/CapstoneProject/app/src/main/res/layout/activity_see_more.xml" value="0.22" />
+        <entry key="..\:/PROJECT/STUDI INDEPENDEN/Menjadi Android Developer Expert/CapstoneProject/app/src/main/res/layout/activity_setting.xml" value="0.21" />
+        <entry key="..\:/PROJECT/STUDI INDEPENDEN/Menjadi Android Developer Expert/CapstoneProject/app/src/main/res/layout/activity_sign_up.xml" value="0.22" />
+        <entry key="..\:/PROJECT/STUDI INDEPENDEN/Menjadi Android Developer Expert/CapstoneProject/app/src/main/res/layout/app_bar_layout.xml" value="0.33" />
+        <entry key="..\:/PROJECT/STUDI INDEPENDEN/Menjadi Android Developer Expert/CapstoneProject/app/src/main/res/layout/dialog_success_create_account.xml" value="0.25" />
+        <entry key="..\:/PROJECT/STUDI INDEPENDEN/Menjadi Android Developer Expert/CapstoneProject/app/src/main/res/layout/fragment_movie.xml" value="0.31666666666666665" />
+        <entry key="..\:/PROJECT/STUDI INDEPENDEN/Menjadi Android Developer Expert/CapstoneProject/app/src/main/res/layout/fragment_tv_show.xml" value="0.23943661971830985" />
+        <entry key="..\:/PROJECT/STUDI INDEPENDEN/Menjadi Android Developer Expert/CapstoneProject/app/src/main/res/layout/item_list_genre.xml" value="0.18297101449275363" />
+        <entry key="..\:/PROJECT/STUDI INDEPENDEN/Menjadi Android Developer Expert/CapstoneProject/app/src/main/res/layout/item_list_horizontal.xml" value="0.33" />
+        <entry key="..\:/PROJECT/STUDI INDEPENDEN/Menjadi Android Developer Expert/CapstoneProject/app/src/main/res/layout/item_list_top_cast.xml" value="0.33" />
+        <entry key="..\:/PROJECT/STUDI INDEPENDEN/Menjadi Android Developer Expert/CapstoneProject/app/src/main/res/layout/item_movie_home.xml" value="0.17346014492753623" />
+        <entry key="..\:/PROJECT/STUDI INDEPENDEN/Menjadi Android Developer Expert/CapstoneProject/app/src/main/res/layout/loading_auth.xml" value="0.20833333333333334" />
+        <entry key="..\:/PROJECT/STUDI INDEPENDEN/Menjadi Android Developer Expert/CapstoneProject/app/src/main/res/menu/bottom_nav_menu.xml" value="0.22447916666666667" />
+        <entry key="..\:/PROJECT/STUDI INDEPENDEN/Menjadi Android Developer Expert/CapstoneProject/app/src/main/res/menu/option_menu.xml" value="0.22447916666666667" />
+        <entry key="..\:/PROJECT/STUDI INDEPENDEN/Menjadi Android Developer Expert/CapstoneProject/core/src/main/res/drawable/rounded_text.xml" value="0.19907407407407407" />
+        <entry key="..\:/PROJECT/STUDI INDEPENDEN/Menjadi Android Developer Expert/CapstoneProject/core/src/main/res/layout/item_list_data.xml" value="0.18297101449275363" />
+        <entry key="..\:/PROJECT/STUDI INDEPENDEN/Menjadi Android Developer Expert/CapstoneProject/core/src/main/res/layout/item_list_genre.xml" value="0.17391304347826086" />
+        <entry key="..\:/PROJECT/STUDI INDEPENDEN/Menjadi Android Developer Expert/CapstoneProject/core/src/main/res/layout/item_list_horizontal.xml" value="0.33" />
+        <entry key="..\:/PROJECT/STUDI INDEPENDEN/Menjadi Android Developer Expert/CapstoneProject/core/src/main/res/layout/item_list_top_cast.xml" value="0.21" />
+        <entry key="..\:/PROJECT/STUDI INDEPENDEN/Menjadi Android Developer Expert/CapstoneProject/favorite/src/main/res/drawable/ic_empty_state_favorite.xml" value="0.20555555555555555" />
+        <entry key="..\:/PROJECT/STUDI INDEPENDEN/Menjadi Android Developer Expert/CapstoneProject/favorite/src/main/res/layout/fragment_favorite.xml" value="0.1453804347826087" />
+        <entry key="..\:/PROJECT/STUDI INDEPENDEN/Menjadi Android Developer Expert/CapstoneProject/favorite/src/main/res/layout/fragment_favorite_movie.xml" value="0.1453804347826087" />
+        <entry key="..\:/PROJECT/STUDI INDEPENDEN/Menjadi Android Developer Expert/CapstoneProject/favorite/src/main/res/layout/fragment_favorite_tv_show.xml" value="0.17346014492753623" />
+        <entry key="..\:/PROJECT/STUDI INDEPENDEN/Menjadi Android Developer Expert/CapstoneProject/userprofile/src/main/res/drawable/bg_logout.xml" value="0.22037037037037038" />
+        <entry key="..\:/PROJECT/STUDI INDEPENDEN/Menjadi Android Developer Expert/CapstoneProject/userprofile/src/main/res/layout/fragment_user.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_13" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
